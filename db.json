@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+          "id" : 1,
+          "name" : "Abhi",
+          "age" : 26, 
+          "gender" : "Male", 
+          "department" : "Software", 
+          "salary" : "100000"
+        },
+
+        {
+          "id" : 2,
+          "name" : "Vivek",
+          "age" : 25, 
+          "gender" : "Male", 
+          "department" : "Software", 
+          "salary" : "120000"
+        },
+        {
+          "id" : 3,
+          "name" : "Shubham",
+          "age" : 26, 
+          "gender" : "Male", 
+          "department" : "Software", 
+          "salary" : "100000"
+        },
+         {
+          "id" : 4,
+          "name" : "Alim",
+          "age" : 20, 
+          "gender" : "Male", 
+          "department" : "Software", 
+          "salary" : "100000"
+        }
+       
+    ]
+  }
